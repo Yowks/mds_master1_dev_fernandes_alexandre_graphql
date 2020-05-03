@@ -1,0 +1,33 @@
+{
+  "name": "mds_api_rest_course",
+  "version": "1.0.0",
+  "description": "Cours de WebService - MDS 2020",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikheull/mds_api_rest_course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikheull/mds_api_rest_course/issues"
+  },
+  "homepage": "https://github.com/Mikheull/mds_api_rest_course#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "graphql-tools": "^5.0.0",
+    "mongoose": "^5.9.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
