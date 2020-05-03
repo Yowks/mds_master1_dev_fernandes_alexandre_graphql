@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mikheull/mds_api_rest_course.git"
+    "url": "git+https://github.com/Yowks/mds_master1_dev_fernandes_alexandre_graphql.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mikheull/mds_api_rest_course/issues"
+    "url": "https://github.com/Yowks/mds_master1_dev_fernandes_alexandre_graphql/issues"
   },
-  "homepage": "https://github.com/Mikheull/mds_api_rest_course#readme",
+  "homepage": "https://github.com/Yowks/mds_master1_dev_fernandes_alexandre_graphql#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
